@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "802094878200",
+    "project_id": "dartfinalproject",
+    "storage_bucket": "dartfinalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802094878200:android:265adbdecf4c5aa68b1a0d",
+        "android_client_info": {
+          "package_name": "com.example.dartfinalproyect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802094878200-v7au3p3pcj0p2fk463k5nq207v9bh85l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dartfinalproyect",
+            "certificate_hash": "87748a61da9a737e8c7f89a3eab4697bd277540d"
+          }
+        },
+        {
+          "client_id": "802094878200-d6bboqao966c7ct2o7peulo9ds8lak8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcbM-TE19NVkGiR9O0QckVrvHiP4Jrb8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802094878200-d6bboqao966c7ct2o7peulo9ds8lak8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
